@@ -11,6 +11,5 @@ function forLoop(array) {
 function whileloop(number) {
   while (number > 0) {
     console.log(--number)
-    return "done"
-  } 
+  }return "done"
 }
